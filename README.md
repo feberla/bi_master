@@ -12,15 +12,6 @@ Trabalho apresentado ao curso [BI MASTER](https://ica.puc-rio.ai/bi-master) como
 - [Link para os arquivos](https://github.com/feberla/bi_master). <!-- caso não aplicável, remover esta linha -->
 
 ---
-### Abstract
-
-This article describes the structure and concepts used in the 
-development of a solution, whose goal is to provide historical data so that users 
-from business areas related to electricity transmission auctions have access to 
-information about the participation of other companies in the sector in past 
-auctions.
-
-
 ### Resumo
 
 <!-- trocar o texto abaixo pelo resumo do trabalho -->
